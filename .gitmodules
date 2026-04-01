@@ -1,0 +1,3 @@
+[submodule "third/sbint-bclib"]
+	path = third/sbint-bclib
+	url = https://github.com/sbintuitions/sbint-bclib.git
